@@ -3626,6 +3626,7 @@ ul.list-style-one li a:hover {
 
 .team-area.style-two .single-team-thumb img {
   width: 100%;
+  border-radius: 20px;
 }
 
 .team-area.style-two .team-content {
