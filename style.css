@@ -56,9 +56,9 @@ nav.solutek_menu {
   -webkit-transition: 0.5s;
   text-decoration: none;
   font-size: 16px;
-  color: #ffffff;
+  color: #050a1e;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 nav.solutek_menu ul li a i {
@@ -337,7 +337,7 @@ color: #7dc243;
   line-height: 30px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   width: 91%;
   margin: 0;
   padding: 13px 0 43px;
@@ -392,7 +392,7 @@ color: #7dc243;
   text-decoration: underline;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 32px;
 }
 
@@ -537,7 +537,7 @@ p.feature-text {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
   transition: 0.5s;
 }
@@ -826,7 +826,7 @@ h1.section-main-title2 {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .form_box input::placeholder {
@@ -834,7 +834,7 @@ h1.section-main-title2 {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .form_box textarea {
@@ -850,7 +850,7 @@ h1.section-main-title2 {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .form_box textarea::placeholder {
@@ -858,18 +858,19 @@ h1.section-main-title2 {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .quote_button button {
   background: #7dc243;
-  padding: 14px 48px 14px;
+  padding: 8px 10px 11px;
   border-radius: 30px;
   transition: 0.5s;
   font-size: 16px;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
+  line-height: 0;
 }
 
 .quote_button button i {
@@ -922,7 +923,7 @@ h1.section-main-title2 {
   font-size: 18px;
   color: #7dc243;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   height: 100%;
   width: 100%;
@@ -972,7 +973,7 @@ h1.section-main-title2 {
   line-height: 36px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
 }
 
@@ -1029,7 +1030,7 @@ p.blog-tex {
   line-height: 28px;
   color: #7a7a7a;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   transition: 0.5s;
 }
@@ -1042,7 +1043,7 @@ p.blog-tex {
   display: inline-block;
   font-size: 20px;
   position: relative;
-  top: 1px;
+  top: 3px;
   margin-left: 8px;
 }
 
@@ -1075,7 +1076,7 @@ p.blog-tex {
   line-height: 36px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
 }
 
@@ -1128,7 +1129,7 @@ h3.blog-title-two a:hover {
   line-height: 28px;
   color: #7a7a7a;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   transition: 0.5s;
 }
@@ -1158,10 +1159,10 @@ h3.blog-title-two a:hover {
 =======================================*/
 
 .about-area {
-  padding: 0 0 0px;
+  padding: 90px 0 0px;
   position: relative;
   z-index: 1;
-  margin-top: 90px;
+  margin-top: 0px;
 }
 
 .about-area::before {
@@ -1244,8 +1245,8 @@ h4.about-title {
   display: inline-block;
   background: #7dc243;
   text-decoration: none;
-  padding: 10px 16px;
-  font-size: 15px;
+  padding: 7px 13px;
+  font-size: 12px;
   text-transform: uppercase;
   color: #ffffff;
   font-weight: 600;
@@ -1325,8 +1326,8 @@ h4.about-title {
   background-image: linear-gradient(
     90deg,
     #7dc243 0%,
-    #ffcf00 49%,
-    #a52600 80%,
+    #7dc243 49%,
+    #7dc243 80%,
     #7dc243 100%
   );
   animation: slidebg 5s linear infinite;
@@ -1653,6 +1654,7 @@ h3.project-title a:hover {
 
 .owl-carousel .owl-item img {
   display: inline;
+  border-radius: 5px;
 }
 
 /*=====================================
@@ -2041,7 +2043,7 @@ h3.testi-title {
   line-height: 28px;
   color: #ffffff;
   font-weight: 600;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
 }
 
@@ -2051,7 +2053,7 @@ h3.testi-title span {
   line-height: 28px;
   color: #7dc243;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 14px;
 }
 
@@ -2209,7 +2211,7 @@ ul.testi-rating li {
   font-size: 20px;
   line-height: 28px;
   font-weight: 600;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
   color: #050a1e;
   transition: 0.5s;
@@ -2220,7 +2222,7 @@ ul.testi-rating li {
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 14px;
   color: #7a7a7a;
   transition: 0.5s;
@@ -2381,7 +2383,7 @@ ul.testi-rating li {
   text-transform: uppercase;
   color: #fff;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-align: center;
 }
 
@@ -2413,7 +2415,7 @@ ul.testi-rating li {
   color: #7a7a7a;
   font-weight: 400;
   font-style: italic;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .testimonial-area.style-four .testi-review-user {
@@ -2427,7 +2429,7 @@ ul.testi-rating li {
   text-transform: uppercase;
   color: #050a1e;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .testimonial-area.style-four .testi-review-user h3 span {
@@ -2606,7 +2608,7 @@ p.footer-widget-text {
   line-height: 26px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
   padding: 38px 0 68px;
 }
@@ -2639,7 +2641,7 @@ p.footer-widget-text {
   line-height: 40px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   position: relative;
   z-index: 1;
@@ -2667,7 +2669,7 @@ p.newsletter-text {
   line-height: 26px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
   padding: 0 0 38px;
 }
@@ -2683,7 +2685,7 @@ p.newsletter-text {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   padding: 0 21px 0;
 }
 
@@ -2692,7 +2694,7 @@ p.newsletter-text {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .form-field2 button {
@@ -2744,7 +2746,7 @@ p.newsletter-text {
   line-height: 40px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   margin-left: 37px;
   transition: 0.5s;
@@ -2755,7 +2757,7 @@ p.newsletter-text {
   font-size: 16px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin: 0;
 }
 
@@ -3309,11 +3311,11 @@ ul.list-style-one li a:hover {
 <!-- Start solutek service Area style two  -->
 <!-- =====================================-->*/
 .service-area.style-two {
-  padding: 60px;
+  padding-top: 90px;
 }
 
 .service-area.style-two .section-title.text-center {
-  margin-bottom: 82px;
+  margin-bottom: 42px;
 }
 
 .service-area.style-two .single-service-box {
@@ -3560,7 +3562,7 @@ ul.list-style-one li a:hover {
   color: #7a7a7a;
   font-weight: 400;
   margin-bottom: 0;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .about-area.style-two .about-contact-content p {
@@ -4170,7 +4172,7 @@ ul.list-style-one li a:hover {
   background: #7dc243;
   padding: 7px 19px;
   border-radius: 20px;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   font-weight: 400;
   transition: 0.5s;
 }
@@ -4188,7 +4190,7 @@ ul.list-style-one li a:hover {
   font-size: 15px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .blog-area.style-two .meta-blog span i {
@@ -4226,7 +4228,7 @@ ul.list-style-one li a:hover {
   line-height: 34px;
   color: #050a1e;
   font-weight: 600;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   padding: 22px 0 34px;
   transition: 0.5s;
@@ -4238,7 +4240,7 @@ ul.list-style-one li a:hover {
   text-transform: uppercase;
   color: #7dc243;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   border-radius: 24px;
   background-color: #ffffff;
   padding: 8px 32px;
@@ -4448,7 +4450,7 @@ ul.list-style-one li a:hover {
 .hero-area.style-three .hero-contant span {
   display: inline-block;
   font-size: 65px;
-  line-height: 80px;
+  line-height: 70px;
   color: #7dc243;
   font-weight: 700;
   margin-right: 10px;
@@ -4460,7 +4462,7 @@ ul.list-style-one li a:hover {
   color: #7a7a7a;
   width: 100%;
   opacity: 1;
-  padding: 18px 0 40px;
+  padding: 20px 0 20px;
 }
 
 .hero-area.style-three .solutek-btn {
@@ -4529,9 +4531,9 @@ ul.list-style-one li a:hover {
   transform: rotate(180deg);
   margin: 0;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   position: absolute;
-  top: 190px;
+  top: 90px;
   left: 55px;
 }
 
@@ -4544,9 +4546,9 @@ ul.list-style-one li a:hover {
   transform: rotate(180deg);
   margin: 0;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   position: absolute;
-  bottom: 190px;
+  bottom: 170px;
   left: 55px;
 
 }
@@ -4794,7 +4796,7 @@ ul.list-style-one li a:hover {
   text-transform: uppercase;
   color: #7dc243;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 60px;
   position: relative;
   padding-bottom: 163px;
@@ -4821,7 +4823,7 @@ ul.list-style-one li a:hover {
   text-transform: uppercase;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   border-radius: 29px;
   background-color: #7dc243;
   padding: 13px 40px;
@@ -4876,7 +4878,7 @@ ul.list-style-one li a:hover {
   text-transform: uppercase;
   color: #7dc243;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 60px;
   position: relative;
   z-index: 1;
@@ -5113,7 +5115,7 @@ ul.list-style-one li a:hover {
   text-transform: uppercase;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   line-height: 1.5;
 }
 
@@ -5133,7 +5135,7 @@ ul.breadcumb-list {
   text-transform: uppercase;
   color: #7dc243;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 li.list-arrow {
@@ -5147,7 +5149,7 @@ li.list-arrow {
   text-transform: uppercase;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   cursor: pointer;
 }
 
@@ -5197,7 +5199,7 @@ li.list-arrow {
   line-height: 26px;
   color: #050a1e;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   margin-left: 30px;
 }
 
@@ -5721,7 +5723,7 @@ li.list-arrow {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .team-details-area .form_box textarea {
@@ -5741,7 +5743,7 @@ li.list-arrow {
   line-height: 26px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 /*---=====================================================
@@ -6465,7 +6467,7 @@ li.current_menu_item {
   line-height: 46px;
   color: #050a1e;
   font-weight: 600;
-  font-family: 'Fira Sans';
+  font-family: 'Poppins';
 }
 
 .project-details-box {
@@ -6557,7 +6559,7 @@ a.project-details-text {
   font-size: 15px;
   color: #7a7a7a;
   font-weight: 400;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
 }
 
 .blog-area.style-grid .meta-blog span i {
@@ -6587,7 +6589,7 @@ a.project-details-text {
   line-height: 34px;
   color: #050a1e;
   font-weight: 600;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   text-decoration: none;
   padding: 22px 0 34px;
   transition: 0.5s;
@@ -6598,7 +6600,7 @@ a.project-details-text {
   font-size: 15px;
   text-transform: uppercase;
   color: #050a1e;
-  font-family: "Fira Sans";
+  font-family: "Poppins";
   border-radius: 20px;
   padding: 7px 35px 7px;
   position: relative;
@@ -7826,7 +7828,7 @@ p.blog-details-desc.three {
 @media (min-width: 1300px) and (max-width: 1399px) {
   .hero-area {
       height: 625px;
-      margin: -100px 30px 0 !important;
+      margin: -100px 0 0 !important;
   }
 }
 
@@ -7956,6 +7958,17 @@ li.nav-btn.mean-last {
 }
 }
 
+@media (min-width: 1300px) and (max-width: 1399px) {
+  .project-area h1.section-main-title {
+      font-size: 37px !important;
+  }
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+  h3.blog-title a {
+      font-size: 23px !important;
+  }
+}
 
 
 
@@ -7964,5 +7977,175 @@ li.nav-btn.mean-last {
 
 
 
+/* contactus */
+
+.sa-contact-inner-form {
+  margin: 0 auto;
+  max-width: 750px;
+  padding-top: 50px;
+}
+.sa-contact-inner-form input,
+.sa-contact-inner-form textarea {
+  width: 100%;
+  height: 50px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  border: 2px solid #e8e8e8;
+}
+.sa-contact-inner-form textarea {
+  height: 150px;
+  padding-top: 20px;
+}
+.sa-contact-inner-form button {
+  color: #fff;
+  height: 60px;
+  width: 170px;
+  border: none;
+  font-weight: 600;
+  border-radius: 30px;
+  background-color: #0091ce;
+}
+.sa-contact-inner-btn {
+  width: 100%;
+}
+
+.side_inner_content .side_contact {
+  margin-bottom: 30px;
+}
+
+.side_inner_content .side_contact .social_widget h3 {
+  font-size: 18px;
+  padding: 10px 0px 20px 0px;
+}
+
+.side_inner_content .side_contact .social_widget li {
+  margin: 0px 3px;
+}
+
+
+.vib_two_team_section .s2-team_img_text .s2_name_info .s2_mem_contact {
+  padding-top: 25px;
+}
+
+.vib_two_team_section .s2-team_img_text .s2_name_info .s2_mem_contact span {
+  font-size: 15px;
+  color: #737272;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.vib_two_team_section .s2-team_img_text .s2_name_info .s2_mem_contact span i {
+  color: #0091ce;
+  margin-right: 8px;
+}
+.sa-contact-page-2 {
+  padding-bottom: 385px;
+}
+.bis-google-map {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+}
+.bis-google-map iframe {
+  width: 100%;
+}
+
+.bis-contact-page-content {
+  padding: 45px 50px;
+  background-color: rgb(255, 255, 255);
+  -webkit-box-shadow: 0px 0px 70px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 0px 70px 0px rgba(0, 0, 0, 0.06);
+}
+
+.bis-faq-contact-info-title {
+  max-width: 440px;
+}
+.bis-faq-contact-info-title h3 {
+  font-weight: 700;
+  font-size: 36px;
+  padding-bottom: 20px;
+  color: #000000;
+}
+
+.bis-faq-contact-info-wrap {
+  padding-top: 40px;
+}
+
+.bis-faq-contact-info {
+  margin-top: 45px;
+}
+.bis-faq-contact-info .info-item-area {
+  margin-bottom: 40px;
+}
+.bis-faq-contact-info .info-item-area:last-child {
+  margin-bottom: 0;
+}
+.bis-faq-contact-info .info-item-area .inner-icon {
+  width: 70px;
+  height: 70px;
+  margin-right: 30px;
+  border-radius: 5px;
+  background: #7dc243;
+}
+.bis-faq-contact-info .info-item-area .inner-icon i {
+  color: #fff;
+  font-size: 30px;
+}
+.bis-faq-contact-info .info-item-area .inner-text {
+  max-width: 210px;
+}
+.bis-faq-contact-info .info-item-area .inner-text h4 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.ind-add {
+    margin-left: 30px;
+}
+.bis-faq-contact-form-area {
+  margin-left: 45px;
+}
+
+.bis-faq-contact-form {
+  margin-top: 45px;
+}
+.bis-faq-contact-form input, .bis-faq-contact-form textarea {
+  width: 100%;
+  height: 55px;
+  border: none;
+  color: #7a7a7a;
+  font-size: 15px;
+  padding-left: 25px;
+  margin-bottom: 30px;
+  background-color: #e4f4d3;
+}
+select.form-select {
+    width: 100%;
+    height: 55px;
+    border: none;
+    color: #7a7a7a;
+    font-size: 15px;
+    padding-left: 25px;
+    margin-bottom: 30px;
+    background-color: #e4f4d3;
+}
+.bis-faq-contact-form textarea {
+  height: 110px;
+  padding-top: 15px;
+}
+.bis-faq-contact-form button {
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  padding: 18px 20px;
+  background-color: #7dc243;
+}
+.bis-faq-contact-form button i {
+  margin-left: 8px;
+}
 
 
